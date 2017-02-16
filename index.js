@@ -1,4 +1,4 @@
-module.export = {
+module.exports = {
 	mounted() {
 		const attributes = this.getDataAttributes();
 
