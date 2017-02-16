@@ -1,6 +1,6 @@
 {
   "name": "vue-mixin-data-attributes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Reads `data-` attributes from the element and assigns them to the Vue instance/component.",
   "main": "index.js",
   "module": "index.es2015.js",
