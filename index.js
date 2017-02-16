@@ -1,4 +1,4 @@
-const dataAttributes = {
+module.export = {
 	mounted() {
 		const attributes = this.getDataAttributes();
 
@@ -30,5 +30,3 @@ const dataAttributes = {
 		},
 	},
 };
-
-export default dataAttributes;
